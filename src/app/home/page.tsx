@@ -1,3 +1,5 @@
+'use client'
+
 import Image from 'next/image';
 import image from '@/app/images/Image.png';
 import Image1 from '@/app/images/Image (1).png';

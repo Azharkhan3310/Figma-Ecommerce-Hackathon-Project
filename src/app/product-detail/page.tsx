@@ -1,3 +1,5 @@
+'use client'
+
 import Image from "next/image"
 import product_Image from '../images/product-detail-1.png'
 import Group from "../images/Group.png";
@@ -19,9 +21,3 @@ export default function Product_Detail(){
         </div>
     )
 }
-// width: 653px;
-// height: 653px;
-// top: 110px;
-// left: -22px;
-// gap: 0px;
-// opacity: 0px;

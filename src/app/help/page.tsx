@@ -1,3 +1,5 @@
+'use client'
+
 import Image from "next/image"
 import search_icon_grey from "../images/search-icon-grey.png"
 import good from "../images/good.png";
